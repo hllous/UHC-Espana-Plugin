@@ -1,0 +1,8 @@
+name: UHC-Espana-Plugin
+version: '1.0-SNAPSHOT'
+main: me.hllous.uhcespanaplugin.UHCEspanaPlugin
+description: Plugin de UHC Espana.
+author: hllous
+website: https://github.com/hllous
+api-version: '1.21'
+prefix: UHC-Espana-Plugin

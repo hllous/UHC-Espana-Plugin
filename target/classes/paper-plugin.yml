@@ -1,0 +1,7 @@
+name: UHC-Espana-Plugin
+version: '1.0'
+main: me.hllous.uhcespanaplugin.UHCEspanaPlugin
+description: Paper Test Plugin
+api-version: '1.21.10'
+bootstrapper: io.papermc.testplugin.TestPluginBootstrap
+loader: io.papermc.testplugin.TestPluginLoader

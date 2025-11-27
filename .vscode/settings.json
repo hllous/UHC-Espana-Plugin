@@ -1,0 +1,13 @@
+{
+    "java.compile.nullAnalysis.mode": "disabled",
+    "editor.inlineSuggest.enabled": false,
+    "github.copilot.inlineSuggest.enable": false,
+    "github.copilot.enable": {
+        "*": false
+    },
+    "editor.suggest.preview": false,
+    "cursor.cpp.enable": false,
+    "antigravity.inlineSuggest.enable": false,
+    "antigravity.ai.enabled": false,
+    "antigravity.ghostText.enabled": false
+}
